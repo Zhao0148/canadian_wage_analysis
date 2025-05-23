@@ -98,6 +98,3 @@ Contributions are welcome! If you have suggestions for improvements, please feel
 5.  Push to the branch (`git push origin feature/your-feature-name`).
 6.  Open a Pull Request.
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE). (Consider adding an MIT License file if you wish to formally license it).
